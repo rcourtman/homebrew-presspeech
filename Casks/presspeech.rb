@@ -1,6 +1,6 @@
 cask "presspeech" do
-  version "0.3.8"
-  sha256 "7edc7987d2bf6a47db10381f5b39bb740ae331c2a2a5b9780b1e57898baf291f"
+  version "0.3.9"
+  sha256 "4b20dc57f0eff34457fda67d928b00e2af142c2e1c3035da9ea1a98f70640442"
 
   url "https://github.com/rcourtman/presspeech/releases/download/v#{version}/Presspeech.zip"
   name "Presspeech"
